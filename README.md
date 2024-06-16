@@ -5,7 +5,7 @@ Gmail id brut force attack
            apt update
            apt install python
            apt install python3
-           git clone https://github.com/akashblackhat/gmail-hack.py.git
+           git clone https://github.com/sudarshan7676/gmail-hack.py.git
            ls
            cd gmail-hack.py
            python gmail-hack.py
@@ -24,7 +24,7 @@ Gmail id brut force attack
 ### Hi there 👋
 
 <!--
-**akashblackhat/akashblackhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sudarshan7676/sudarshan** is a ✨ _special_ ✨ repository b7676ecause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
